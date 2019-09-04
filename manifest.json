@@ -1,0 +1,6 @@
+{
+    "name": "Link Downloader",
+    "version": "0.0",
+    "description": "Download from links in the block selection",
+    "manifest_version": 2
+}
